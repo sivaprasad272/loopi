@@ -1,0 +1,3 @@
+The show subcommand can be appended to git remote to give detailed output on the configuration of a remote. This output will contain a list of branches associated with the remote and also the endpoints attached for fetching and pushing.
+
+git remote show upstream
