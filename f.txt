@@ -5,4 +5,4 @@ upstream    https://bitbucket.com/upstream_user/reponame.git (fetch)
 upstream    https://bitbucket.com/upstream_user/reponame.git (push)
 other_users_repo    https://bitbucket.com/other_users_repo/reponame (fetch)
 other_users_repo    https://bitbucket.com/other_users_repo/reponame (push)
-Adding Remote
+
